@@ -4,3 +4,4 @@ RENCANA KONTEN
 1. ES6
 - React
 - Next JS
+- Struktur data
