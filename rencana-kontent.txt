@@ -4,4 +4,7 @@ RENCANA KONTEN
 1. ES6
 - React
 - Next JS
+- Vue
 - Struktur data
+
+LANJUT KE PHYTON
