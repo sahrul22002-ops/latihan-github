@@ -4,4 +4,7 @@ RENCANA KONTEN
 1. ES6
 - React
 - Next JS
+- Angular
 - Struktur data
+
+LANJUT KE PHP
