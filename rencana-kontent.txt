@@ -1,5 +1,6 @@
 RENCANA KONTEN
 
-- JS Dasar
+- JS 
+1. ES6
 - React
 - Next JS
