@@ -2,9 +2,11 @@ RENCANA KONTEN
 
 - JS 
 1. ES6
+2. Framework
 - React
 - Next JS
 - Vue
-- Struktur data
-
-LANJUT KE PHYTON
+- Angular
+3. Struktur data
+4. PHYTON
+5. PHP
